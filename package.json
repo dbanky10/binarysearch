@@ -1,0 +1,25 @@
+{
+  "name": "binarysearch",
+  "version": "1.0.0",
+  "description": "searching through arrays",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbanky10/binarysearch.git"
+  },
+  "keywords": [
+    "search"
+  ],
+  "author": "Oluwabanke Fagbemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbanky10/binarysearch/issues"
+  },
+  "homepage": "https://github.com/dbanky10/binarysearch#readme"
+}
